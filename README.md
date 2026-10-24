@@ -1,43 +1,59 @@
-# Getting Started with Create React App
+# Project React — Login & Registration
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+A responsive login and Registration page built using React and TypeScript.
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- React
+- TypeScript
+- Create React App
+- CSS
+- Yarn
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Screenshots
 
-### `npm test`
+### Login Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Login Page](screenshots/login-page.png)
 
-### `npm run build`
+### Registration Page
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Registration Page](screenshots/registration-page.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
 
-### `npm run eject`
+   git clone YOUR_REPOSITORY_URL
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2. Navigate into the project:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   cd project-react
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+3. Install the dependencies:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+   yarn install
+
+4. Start the application:
+
+   yarn start
+
+5. Open the following address in your browser:
+
+   http://localhost:3333
+
+## Port Configuration
+
+The development server is configured to use port 3333.
+
+## Notes
+
+This is a frontend demonstration project.
+It does not implement real authentication or connect to a backend.
 
 ## Learn More
 
