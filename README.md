@@ -28,7 +28,7 @@ A responsive login and Registration page built using React and TypeScript.
 
 1. Clone the repository:
 
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/chinsinyan-cloud/project-react
 
 2. Navigate into the project:
 
